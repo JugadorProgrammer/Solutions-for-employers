@@ -1,0 +1,11 @@
+C:\Users\dinam\source\MyProjectsCSarp\AreaCalculator\AreaCalculator\bin\Debug\net7.0\AreaCalculatorLib.deps.json
+C:\Users\dinam\source\MyProjectsCSarp\AreaCalculator\AreaCalculator\bin\Debug\net7.0\AreaCalculatorLib.dll
+C:\Users\dinam\source\MyProjectsCSarp\AreaCalculator\AreaCalculator\bin\Debug\net7.0\AreaCalculatorLib.pdb
+C:\Users\dinam\source\MyProjectsCSarp\AreaCalculator\AreaCalculator\obj\Debug\net7.0\AreaCalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinam\source\MyProjectsCSarp\AreaCalculator\AreaCalculator\obj\Debug\net7.0\AreaCalculatorLib.AssemblyInfoInputs.cache
+C:\Users\dinam\source\MyProjectsCSarp\AreaCalculator\AreaCalculator\obj\Debug\net7.0\AreaCalculatorLib.AssemblyInfo.cs
+C:\Users\dinam\source\MyProjectsCSarp\AreaCalculator\AreaCalculator\obj\Debug\net7.0\AreaCalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\dinam\source\MyProjectsCSarp\AreaCalculator\AreaCalculator\obj\Debug\net7.0\AreaCalculatorLib.dll
+C:\Users\dinam\source\MyProjectsCSarp\AreaCalculator\AreaCalculator\obj\Debug\net7.0\refint\AreaCalculatorLib.dll
+C:\Users\dinam\source\MyProjectsCSarp\AreaCalculator\AreaCalculator\obj\Debug\net7.0\AreaCalculatorLib.pdb
+C:\Users\dinam\source\MyProjectsCSarp\AreaCalculator\AreaCalculator\obj\Debug\net7.0\ref\AreaCalculatorLib.dll
